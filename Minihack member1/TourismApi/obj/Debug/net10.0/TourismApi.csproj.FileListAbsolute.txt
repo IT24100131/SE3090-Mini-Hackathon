@@ -40,3 +40,46 @@ C:\Users\Tecke\OneDrive\Desktop\Minihack member1\TourismApi\obj\Debug\net10.0\re
 C:\Users\Tecke\OneDrive\Desktop\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.pdb
 C:\Users\Tecke\OneDrive\Desktop\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.genruntimeconfig.cache
 C:\Users\Tecke\OneDrive\Desktop\Minihack member1\TourismApi\obj\Debug\net10.0\ref\TourismApi.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\appsettings.Development.json
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\appsettings.json
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\TourismApi.staticwebassets.endpoints.json
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\TourismApi.exe
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\TourismApi.deps.json
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\TourismApi.runtimeconfig.json
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\TourismApi.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\TourismApi.pdb
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\DnsClient.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\MongoDB.Bson.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\MongoDB.Driver.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\SharpCompress.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\Snappier.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Minihack member1\Minihack member1\TourismApi\bin\Debug\net10.0\ZstdSharp.dll
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.csproj.AssemblyReference.cache
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.AssemblyInfoInputs.cache
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.AssemblyInfo.cs
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.csproj.CoreCompileInputs.cache
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.sourcelink.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\scopedcss\bundle\TourismApi.styles.css
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.csproj.Up2Date
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.dll
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\refint\TourismApi.dll
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.pdb
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\TourismApi.genruntimeconfig.cache
+E:\Minihack member1\Minihack member1\TourismApi\obj\Debug\net10.0\ref\TourismApi.dll
